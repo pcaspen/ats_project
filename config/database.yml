@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: ats_project
+  username: postgres 
+  password: postgres 
+  encoding: unicode

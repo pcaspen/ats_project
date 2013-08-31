@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  email: MyString
+  phone: MyString
+  resume: MyString
+  referrer: MyString
+  communication: MyString
+  job_id: 1
+  workflow_id: 1
+
+two:
+  name: MyString
+  email: MyString
+  phone: MyString
+  resume: MyString
+  referrer: MyString
+  communication: MyString
+  job_id: 1
+  workflow_id: 1
